@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TutoVilla
-- 👀 I’m interested in learn more
-- 🌱 I’m currently learning HTML/CSS/JAVA
+- 👀 I’m interested in learn
+- 🌱 I’m currently learning Docker, Async, Python...
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me josevilla410@gmail.com
 
